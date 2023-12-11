@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Welcome to BestPinks</title>
+</head>
+<body>
+  <header>
+    <h1>Welcome to BestPinks</h1>
+    <p>Where you can make your own clothes</p>
+  </header>
+
+  <section class="coquette-pictures">
+    <!-- Your coquette pictures go here -->
+  </section>
+
+  <section class="coquette-poem">
+    <div class="poem-container">
+      <p class="poem-text">
+        The creation of perfection does not come from makeup itself,
+        <br> but from the beauty of who wears it and flaunts it.
+        <br> We give you the clothes but you make them even prettier.
+      </p>
+      <p class="poem-author">- by Lola, CEO and Owner of BestPinks</p>
+    </div>
+  </section>
+
+  <section class="featured-clothes">
+    <!-- Your featured clothes go here -->
+  </section>
+
+  <section class="contact">
+    <h2>Contact Us</h2>
+    <!-- Your contact information goes here -->
+  </section>
+</body>
+</html>
